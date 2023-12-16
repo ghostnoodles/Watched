@@ -1,2 +1,2 @@
 # Watched
-Shows/Movies watched checklist
+Shows/Movies watched 
