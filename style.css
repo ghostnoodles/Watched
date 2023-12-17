@@ -2,10 +2,16 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-.header {
+.mainheader,
+.title {
     color: rgb(1, 129, 44);
     font-weight: bold;
     font-size: 32px;
+}
+
+/* I want title letters to be shown in black */
+.title {
+    color: rgb(0, 0, 0);
 }
 
 .menu {
