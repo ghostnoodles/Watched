@@ -16,4 +16,13 @@
 
 .menu {
     font-size: 18px;
+    display: inline-block;
+    border: 5px;
+    margin: 0px 5px;
+    border-color: black;
+    /* background-color: rgb(38, 148, 71); */ 
 }
+
+/* .test{
+    background-color: brown;
+} */
